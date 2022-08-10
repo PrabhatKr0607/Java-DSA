@@ -1,9 +1,9 @@
 # Java DSA Placement Course
 ## Programming Basics
-### Java Basics I
+Java Basics I
 ### Java Basics II
 ### Java OOPS Concepts
-### Java OOPS Concepts II
+Java OOPS Concepts II
 ## Introduction to Algorithms
 ## Arrays
 ## Recursion & Backtracking
