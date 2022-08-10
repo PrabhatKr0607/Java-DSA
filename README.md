@@ -1,7 +1,7 @@
 # Java DSA Placement Course
 ## Programming Basics
 Java Basics I
-### [Java Basics II](https://github.com/PrabhatKr0607/JavaDSAPlacementCourse/tree/main/1.%20Programming%20Basics/Java%20Basics%20II)
+[Java Basics II](https://github.com/PrabhatKr0607/JavaDSAPlacementCourse/tree/main/1.%20Programming%20Basics/Java%20Basics%20II)
 ### Java OOPS Concepts
 Java OOPS Concepts II
 ## Introduction to Algorithms
