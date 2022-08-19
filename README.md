@@ -3,9 +3,9 @@ Notes & Code Base of the complete course.
 
 
 ## Programming Basics
-Java Basics I
-### Java Basics II
-### Java OOPS Concepts
+#### Java Basics I
+#### Java Basics II
+#### Java OOPS Concepts
 
 ## Introduction to Algorithms
 ## Arrays
